@@ -1,0 +1,6 @@
+{
+  "name": "ZAKA ACADEMY",
+  "description": "Professional Computer Science learning platform with complete Class 9 course, textbook-quality notes, quizzes, tests, flashcards, and an AI Computer Science Teacher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
