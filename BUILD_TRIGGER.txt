@@ -1,0 +1,4 @@
+# ZAKA Hack Academy - Build Trigger
+
+This file triggers the APK build workflow.
+Build started at: $(date)
